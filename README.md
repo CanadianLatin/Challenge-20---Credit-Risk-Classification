@@ -2,4 +2,4 @@
 Challenge # 20. University of Toronto. Data Analisys Bootcamp
 
 
-Solution will be found witin the file: credit_risk_classification.ipynb
+Solution will be found witin the file: Credit_Risk/credit_risk_classification.ipynb
